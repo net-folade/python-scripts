@@ -16,3 +16,34 @@ Bulk photo sorter. It sorts the photos in a library into two new directories ~ y
 ### duplicate_finder.py
  It scans a folder (and its subfolders) and identifies duplicate files. Not by filename, but by actual content.
 
+## Image Processing 
+Different image processing techniques 
+
+ ### cropper.py 
+A Streamlit app for cropping images with a fixed aspect ratio. It also has a download function to save the new images. 
+
+### negative.py
+A Streamlit app to get the negative of an image. 
+
+### greyscale_converter.py
+A Streamlot app to convert images to greayscale. 
+
+### image_collage_builder.py
+Build a collage of multiple images deployed on streamlit. 
+
+### image_compressor.py
+Compress an image by adjusting its quality using Streamlit. 
+
+### image_resizer.py 
+Image Resizer using Streamlit. 
+
+### oilPainting.py
+This app converts images to oil paintings. 
+
+### sketch_generator.py
+Download the sketches of the images using the pencil sketch effect. 
+
+### splitter.py
+Streamlit app to split an uploaded image into a grid and allow users to download each piece.
+
+
