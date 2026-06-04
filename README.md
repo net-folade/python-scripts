@@ -19,6 +19,9 @@ Bulk photo sorter. It sorts the photos in a library into two new directories ~ y
  ### WebScraper.py
  This script is a web scraper that extracts quotes, their authors, and associated tags from the website
 
+ ### weatherAPI_dashboard.py
+ A Script to retrieve and display current weather information for a specified city
+
 ## Image Processing 
 Different image processing techniques 
 
