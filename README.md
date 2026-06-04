@@ -16,6 +16,9 @@ Bulk photo sorter. It sorts the photos in a library into two new directories ~ y
 ### duplicate_finder.py
  It scans a folder (and its subfolders) and identifies duplicate files. Not by filename, but by actual content.
 
+ ### WebScraper.py
+ This script is a web scraper that extracts quotes, their authors, and associated tags from the website
+
 ## Image Processing 
 Different image processing techniques 
 
