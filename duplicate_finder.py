@@ -36,10 +36,7 @@ def format_size (bytes_size):
     
 hash_group = {}
 
-print(f"==========================================================")
 print(f"Scanning files...")
-print(f"==========================================================")
-
 
 count = 0       # to count the number of files in the directory
 

@@ -1,9 +1,6 @@
 '''
 A Script to retrieve and display current weather information for a specified city using the Open-Meteo API.
 '''
-
-
-
 '''
 simulating using the open-meteo API to retrieve weather information for a specific location.
 however the open-meteo API does not require an API key, so the .env file and key retrieval are not necessary for this specific API.
