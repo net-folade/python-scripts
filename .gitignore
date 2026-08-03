@@ -3,3 +3,6 @@
 
 #csv file
 quotes.csv
+
+# untracked by shipit
+.DS_Store
